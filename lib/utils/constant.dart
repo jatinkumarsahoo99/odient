@@ -1,7 +1,8 @@
 class Constant {
   static String baseUrl = "https://dtcameo.divinetechs.com/public/api/";
+  // static String baseUrl = "https://odient.in/admin_panel/public/api/";
 
-  static String appName = "yourappname";
+  static String appName = "odient";
 
   static String appPackageName = "com.odient.userapp";
 
