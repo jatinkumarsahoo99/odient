@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "53301547170",
+    "project_id": "odient-197a9",
+    "storage_bucket": "odient-197a9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53301547170:android:383acff6d837aefc3dc7fb",
+        "android_client_info": {
+          "package_name": "com.example.yourappname"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSG96kbzBpRn-EiP0z_F0FiFTBaNdOk1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
