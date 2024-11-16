@@ -1,6 +1,6 @@
 class Constant {
-  static String baseUrl = "https://dtcameo.divinetechs.com/public/api/";
-  // static String baseUrl = "https://odient.in/admin_panel/public/api/";
+  // static String baseUrl = "https://dtcameo.divinetechs.com/public/api/";
+  static String baseUrl = "https://odient.in/admin_panel/public/api/";
 
   static String appName = "odient";
 
@@ -24,9 +24,9 @@ class Constant {
       "https://i.pinimg.com/564x/5d/69/42/5d6942c6dff12bd3f960eb30c5fdd0f9.jpg";
 
   /* Show Ad By Type */
-  static String bannerAdType = "bannerAd";
-  static String rewardAdType = "rewardAd";
-  static String interstialAdType = "interstialAd";
+  static String bannerAdType = "ca-app-pub-7254360208376301~9544994788";
+  static String rewardAdType = "ca-app-pub-7254360208376301~9544994788";
+  static String interstialAdType = "ca-app-pub-7254360208376301~9544994788";
 
   // screen layout type
   static String draftType = "0";
