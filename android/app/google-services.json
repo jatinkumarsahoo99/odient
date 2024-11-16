@@ -7,12 +7,25 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:53301547170:android:383acff6d837aefc3dc7fb",
+        "mobilesdk_app_id": "1:53301547170:android:fe13e054b63511b13dc7fb",
         "android_client_info": {
-          "package_name": "com.example.yourappname"
+          "package_name": "com.odient.userapp"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "53301547170-dg35tkgncm02r74g70njjnq28vr1g1je.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.odient.userapp",
+            "certificate_hash": "cee58d35686cc51f2303758dc3d6a61c226cdc7e"
+          }
+        },
+        {
+          "client_id": "53301547170-7djn61ejavuh76ur4hm7ookut4v61jth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyBSG96kbzBpRn-EiP0z_F0FiFTBaNdOk1E"
@@ -20,7 +33,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53301547170-7djn61ejavuh76ur4hm7ookut4v61jth.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "53301547170-fs8siuar4kcff3acslc686453du81tj6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.odient.userapp"
+              }
+            }
+          ]
         }
       }
     }

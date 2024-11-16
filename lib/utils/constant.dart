@@ -3,13 +3,14 @@ class Constant {
 
   static String appName = "yourappname";
 
-  static String appPackageName = "com.example.yourappname";
+  static String appPackageName = "com.odient.userapp";
 
   static String? userId;
   static String? userBuy;
 /* OneSignal App ID keyId*/
   static String? oneSignalAppId;
-  static const String oneSignalAppIdKey = "onesignal_apid";
+  // static const String oneSignalAppIdKey = "onesignal_apid";
+  static const String oneSignalAppIdKey = "91b5e05a-1bec-460a-8f06-63ef021ed8d3";
 
   static String currencySymbol = "";
   static String currency = "";

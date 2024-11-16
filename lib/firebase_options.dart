@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyBSG96kbzBpRn-EiP0z_F0FiFTBaNdOk1E',
-    appId: '1:53301547170:android:383acff6d837aefc3dc7fb',
+    appId: '1:53301547170:android:fe13e054b63511b13dc7fb',
     messagingSenderId: '53301547170',
     projectId: 'odient-197a9',
     storageBucket: 'odient-197a9.firebasestorage.app',
@@ -59,11 +59,13 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyDBNFvi3k4UmErs5__DHtp0ToB7Fvmvb8A',
-    appId: '1:53301547170:ios:f00ac17a32a142db3dc7fb',
+    appId: '1:53301547170:ios:2d1de6b98bc0d7493dc7fb',
     messagingSenderId: '53301547170',
     projectId: 'odient-197a9',
     storageBucket: 'odient-197a9.firebasestorage.app',
-    iosBundleId: 'com.example.yourappname',
+    androidClientId: '53301547170-dg35tkgncm02r74g70njjnq28vr1g1je.apps.googleusercontent.com',
+    iosClientId: '53301547170-fs8siuar4kcff3acslc686453du81tj6.apps.googleusercontent.com',
+    iosBundleId: 'com.odient.userapp',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
@@ -74,7 +76,7 @@ class DefaultFirebaseOptions {
     storageBucket: 'yourappname-9aca3.appspot.com',
     androidClientId: '946063364931-on7ef7qpcps70n63fvv34krka4hsvsun.apps.googleusercontent.com',
     iosClientId: '946063364931-mf45cskfiqtc63namugb7n5usvgm8vkq.apps.googleusercontent.com',
-    iosBundleId: 'com.example.yourappname',
+    iosBundleId: 'com.odient.userapp',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
