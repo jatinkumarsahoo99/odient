@@ -3,23 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>946063364931-mf45cskfiqtc63namugb7n5usvgm8vkq.apps.googleusercontent.com</string>
+	<string>53301547170-fs8siuar4kcff3acslc686453du81tj6.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.946063364931-mf45cskfiqtc63namugb7n5usvgm8vkq</string>
+	<string>com.googleusercontent.apps.53301547170-fs8siuar4kcff3acslc686453du81tj6</string>
 	<key>ANDROID_CLIENT_ID</key>
-	<string>946063364931-on7ef7qpcps70n63fvv34krka4hsvsun.apps.googleusercontent.com</string>
+	<string>53301547170-dg35tkgncm02r74g70njjnq28vr1g1je.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDv8lz2mfppOZhU4AH9F2pWx3Os6IcoACg</string>
+	<string>AIzaSyDBNFvi3k4UmErs5__DHtp0ToB7Fvmvb8A</string>
 	<key>GCM_SENDER_ID</key>
-	<string>946063364931</string>
+	<string>53301547170</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.odient.userapp</string>
 	<key>PROJECT_ID</key>
-	<string>yourappname-9aca3</string>
+	<string>odient-197a9</string>
 	<key>STORAGE_BUCKET</key>
-	<string>yourappname-9aca3.appspot.com</string>
+	<string>odient-197a9.firebasestorage.app</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -31,6 +31,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:946063364931:ios:7b130569ab62d92257d5f6</string>
+	<string>1:53301547170:ios:2d1de6b98bc0d7493dc7fb</string>
 </dict>
 </plist>

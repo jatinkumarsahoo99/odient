@@ -22,6 +22,14 @@
           }
         },
         {
+          "client_id": "53301547170-qo8345otnd28f0622fg7sunia6qvn9ig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.odient.userapp",
+            "certificate_hash": "c78c740d743ba6ae1db0fae67317089e5f812c57"
+          }
+        },
+        {
           "client_id": "53301547170-7djn61ejavuh76ur4hm7ookut4v61jth.apps.googleusercontent.com",
           "client_type": 3
         }
