@@ -38,19 +38,7 @@ Future<void> main() async {
   await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
   await Locales.init([
     'en',
-    'hi',
-    'af',
-    'ar',
-    'de',
-    'es',
-    'fr',
-    'gu',
-    'id',
-    'nl',
-    'pt',
-    'sq',
-    'tr',
-    'vi'
+    'hi'
   ]);
   final FirebaseFirestore firebaseFirestore = FirebaseFirestore.instance;
   final FirebaseStorage firebaseStorage = FirebaseStorage.instance;
