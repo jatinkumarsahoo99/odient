@@ -29,7 +29,7 @@ class _IntroState extends State<Intro> {
             child: Column(
               mainAxisAlignment: MainAxisAlignment.end,
               children: [
-                Row(
+                /*Row(
                   children: [
                     MyText(
                       text: "appname",
@@ -47,7 +47,7 @@ class _IntroState extends State<Intro> {
                       isAppicon: true,
                     )
                   ],
-                ),
+                ),*/
                 const SizedBox(height: 30),
                 MyText(
                   text: "title",

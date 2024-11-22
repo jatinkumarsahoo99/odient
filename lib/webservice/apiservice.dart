@@ -37,7 +37,7 @@ class ApiService {
 
   ApiService() {
     dio = Dio();
-    dio.options.headers['Content-Type'] = 'multipart/form-data';
+    dio.options.headers['Content-Type'] = 'application/json';
     dio.interceptors.add(PrettyDioLogger(
       requestHeader: true,
       requestBody: true,

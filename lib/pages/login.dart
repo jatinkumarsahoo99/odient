@@ -88,11 +88,11 @@ class _LoginState extends State<Login> {
                   child: MyImage(
                     width: 100,
                     height: 100,
-                    imagePath: "appicon.png",
+                    imagePath: "odient.png",
                     fit: BoxFit.fill,
-                    isAppicon: true,
+                    isAppicon: false,
                   )),
-              Align(
+              /*Align(
                 alignment: Alignment.center,
                 child: MyText(
                   text: 'appname',
@@ -103,7 +103,7 @@ class _LoginState extends State<Login> {
                   fontwaight: FontWeight.w900,
                 ),
               ),
-              const SizedBox(height: 40),
+              const SizedBox(height: 40),*/
               Container(
                 height: MediaQuery.of(context).size.height,
                 width: MediaQuery.of(context).size.width,

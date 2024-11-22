@@ -39,11 +39,11 @@ class _PhonePageState extends State<PhonePage> {
                 child: MyImage(
                   width: 76,
                   height: 76,
-                  imagePath: "appicon.png",
+                  imagePath: "odient.png",
                   fit: BoxFit.fill,
-                  isAppicon: true,
+                  isAppicon: false,
                 )),
-            Align(
+           /* Align(
               alignment: Alignment.center,
               child: MyText(
                 text: 'appname',
@@ -54,7 +54,7 @@ class _PhonePageState extends State<PhonePage> {
                 fontwaight: FontWeight.w900,
               ),
             ),
-            const SizedBox(height: 40),
+            const SizedBox(height: 40),*/
             Container(
               height: MediaQuery.of(context).size.height,
               width: MediaQuery.of(context).size.width,
